@@ -3,7 +3,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on [MO Technologies](https://wearemo.com/)
+- 🔭 I’m currently working on [MO Technologies](https://wearemo.com/) like **Frontend Developer Level IV**
 
 - 🌱 I’m currently learning **Software Architecture and Design Patters**
 
@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **jsebasdc@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sebasdc/](https://www.linkedin.com/in/sebasdc/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/sebasdc/)
 
-- ⚡ Fun fact **I`m an Angular Lover.**
+- ⚡ Fun fact **I`m an Angular 🧠 and Dog Lover 🐶 ** 
 
 <br>
 <br>
